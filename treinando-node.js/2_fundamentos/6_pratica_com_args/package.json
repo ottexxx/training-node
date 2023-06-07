@@ -1,0 +1,17 @@
+{
+  "name": "bibi",
+  "version": "1.0.0",
+  "description": "utilizando o npm para módulos externos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "789"
+  ],
+  "author": "Bianca Otte",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
